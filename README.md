@@ -19,3 +19,7 @@ O programa é uma aplicação de console que oferece um menu numerado para que o
 - **Encerrar Programa:** Encerra a execução do programa.
   
  Após realizar uma ação, o programa oferece a opção de retornar ao menu principal ou encerrar o sistema.
+
+ ## Diagrama: 
+
+ ![mermaid-diagram-2024-06-20-203121](https://github.com/llucasBraz/Trabalho-Final/assets/164803203/168f8fc3-f58d-4b14-9f81-865d6c9b410d)
